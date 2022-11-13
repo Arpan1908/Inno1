@@ -19,8 +19,7 @@
   header {
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.15)),
-      url("/Users/arpan/Music/frontend/public/mohammad-metri-1oKxSKSOowE-unsplash (1).jpg");
+    
     background-repeat: no-repeat;
     background-size: cover;
   }
