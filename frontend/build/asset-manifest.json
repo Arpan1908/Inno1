@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.760c144f.css",
+    "main.js": "/static/js/main.9962ea0a.js",
+    "static/media/spot.gif": "/static/media/spot.cf7e5d539f0b9961fac5.gif",
+    "static/media/mohammad-metri-1oKxSKSOowE-unsplash (1).jpg": "/static/media/mohammad-metri-1oKxSKSOowE-unsplash (1).f79104db8c2e3af23b5f.jpg",
+    "static/media/spotify.gif": "/static/media/spotify.049aa77e2ffd3f88315d.gif",
+    "index.html": "/index.html",
+    "main.760c144f.css.map": "/static/css/main.760c144f.css.map",
+    "main.9962ea0a.js.map": "/static/js/main.9962ea0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.760c144f.css",
+    "static/js/main.9962ea0a.js"
+  ]
+}
